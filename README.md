@@ -1,1 +1,5 @@
 # iOSReadList
+1. [为什么人人都该懂点LLVM](http://geek.csdn.net/news/detail/37785)： LLVM 是现在 Apple 开发使用的编译器，对于 iOS 开发者来说，了解一点 LLVM 的基本使用方式和原理会对开发有所帮助 -- 最直接的就是你能明白 Xcode 项目的 Build Setting 中那一堆东西到底都是在做什么，这篇文章介绍了一些 LLVM 的基本工作流程，可以让你对 LLVM 有个大致的了解。
+2. [Swift Interview Questions and Answers](http://www.raywenderlich.com/110982/swift-interview-questions-answers)： 一组 Swift 从入门到高级的面试题目及答案，对于 Swift 的必备的基本概念考察还是比较完善的。因为 Swift 语言的特性，有些问题是颇有难度的。另外，想分享一句话给正在或者想要学习 Swift 的开发者：学习一门语言最快的途径就是去使用它，而不是不停看书或者文档。有些朋友会陷入越看书越绝望的情境中，诚然书籍很重要，但是我们学习一门程序语言的目的最终还是去使用它，也只有在实际使用时，才能真正学会这门语言。
+3. [iOS面试题集锦](https://github.com/ChenYilong/iOSInterviewQuestions)：总结了 @我就叫Sunny怎么了 在他的博文中的面试题目，并细心地给出了每个题目的参考答案。可以说如果你能把这些问题都答上个七七八八，可以说明你是具有担任 iOS 开发的高级职位的能力的。
+4. [Swift学习](https://github.com/100mango/zen/blob/master/Swift学习：从Objective-C到Swift/Swift学习：从Objective-C到Swift.md)： 从Objective-C到Swift：文章从比较 Swift 和 Objective-C 的一些差异和某些语法在 Swift 中的改进入手，介绍了一些 Swift 中的基本概念。对于已经掌握 Objective-C 的开发者来说，是一篇不错的快速入门的文章。
